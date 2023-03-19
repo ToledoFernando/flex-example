@@ -16,6 +16,7 @@
 .container .img:nth-child(2) {
   background-image: url("https://raw.githubusercontent.com/ToledoFernando/Ejemplo-Flex/master/img/2.webp");
 }
+
 .container .img:nth-child(3) {
   background-image: url("https://raw.githubusercontent.com/ToledoFernando/Ejemplo-Flex/master/img/3.webp");
 }
