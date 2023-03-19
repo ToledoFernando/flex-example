@@ -1,4 +1,3 @@
 # EJEMPLO basico de flex
 
-
-[Link del ejemplo](https://toledofernando.github.io/Ejemplo-Flex/)
+[Link del ejemplo](https://toledofernando.github.io/ejemplo-flex/)
